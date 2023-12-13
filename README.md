@@ -33,12 +33,6 @@
   <img title="C++" height="25" src="images/cpp.svg"></code>
   <img title="Problem Solving" height="25" src="images/problemSolving.png">
 <!--   <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
-  <img title="Python" height="25" src="images/python-original.svg">
-  <img title="Numpy" height="25" src="images/numpy.svg">
-  <img title="Pandas" height="25" src="images/pandas.svg">
-  <img title="Matplotlib" height="25" src="images/matplotlib.svg">
-  <img title="Seaborn" height="25" src="images/seaborn.svg">
-  <img title="Scikit Learn" height="25" src="images/Scikit_learn.svg">
   <img title="HTML5" height="25" src="images/html5.svg">
   <img title="CSS" height="25" src="images/css.svg">
   <img title="Javascript" height="25" src="images/javascript.svg">
@@ -62,7 +56,7 @@
 </p>
 
 <hr>
-<h2 align="center">💹 Most Popular Repos 💹</h2>
+<!-- <h2 align="center">💹 Most Popular Repos 💹</h2>
 <br>
 <p align="center">
 <a href="https://github.com/HalemoGPA/Learn-Js/">
@@ -78,7 +72,7 @@
 <hr>
 <p align="center">
   <a href="https://www.buymeacoffee.com/HalemoGPA" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
-</p>
+</p> -->
 
 <!--
 <p  align="center">
@@ -86,8 +80,8 @@
 </p>
 -->
 <p align="center">
-  <a href="https://www.github.com/HalemoGPA" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/HalemoGPA?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
-</p>
+<!--   <a href="https://www.github.com/HalemoGPA" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/HalemoGPA?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a> -->
+<!-- </p> -->
 <!---
 HalemoGPA/HalemoGPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

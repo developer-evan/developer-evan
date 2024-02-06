@@ -29,7 +29,11 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
- <ul>
+ <ul 
+   style="
+   display:"flex";
+   
+   >
    <li>HTML</li>
    <li>CSS</li>
    <li>JavaScript</li>
@@ -45,13 +49,9 @@
    <li>Problem Solving</li>
    <li>Android Studio</li>
 
- </ul>
+ </ul>  
   
   
-  <img title="JSON" height="25" src="images/json.svg">
-  <img title="Git" height="25" src="images/git-original.svg">
-  <img title="GitHub" height="25" src="images/github.svg">
-  <img title="Visual Studio Code" height="25" src="images/vscode.png">
 <!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
 </p>
 <hr>

@@ -1,58 +1,67 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="">    
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=evansmogeni.evmogeni" alt="Visitor badge">
 
-<!-- <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Halemo+GPA;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
-  </a>
-</h1> -->
-   
-###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
+<h1 align="center">
+  Hey there 👋, I'm <span style="color:#00bfa6;">Evans Mogeni</span>
+</h1>
+
+<h3 align="center">🚀 Software Engineer</h3>
+
 <p align="center">
-  Hi, I'm Evans Mogeni, Frontend Engineer & Software Developer from Nairobi ,KENYA
-  <br>
-  <br>
-  👨‍🎓 I'm currently studying for a Bachelor's degree in Murang'a University of Technology Mathematics & Computer Science .
-  <br>
-  💻 I love Writing code 😊
-  <br>
-  📚 I’m currently focusing on Software Development 
-  <br>
-  📫 How to reach me 👇
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00BFA6&center=true&vCenter=true&width=435&lines=Frontend+Engineer+💻;Software+Developer+🌍;Tech+Enthusiast+⚡;Lifelong+Learner+🚀" alt="Typing SVG" />
 </p>
-<p align="center"> <a href="https://www.linkedin.com/in/%C3%ABvans-mogeni-a48636235/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:evansmoogeni254@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
-  <!--  <a href="http://wa.me//201010147580"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> --> 
-<!--    <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-222222?style=for-the-badge&logo=twitter&logoColor=white" height=23></a> -->
-<!--   <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
- <!--  <a href="https://www.youtube.com/watch?v=p0uAJ6Eu4Rs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a> -->
-<!--   <a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a> <a href="https://curiouscat.live/"><img src="https://img.shields.io/badge/Curious%20Cat-ff5c00?style=for-the-badge&logo=curiouscat&logoColor=white" height=23></a>  <a href="https://codeforces.com/profile/"><img src="https://img.shields.io/badge/codeforces-%234566B5.svg?&style=for-the-badge&logo=codeforces&logoColor=white" height=23></a></p> -->
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
+
+---
+
+### 🧑‍💻 About Me  
+Hi there! I'm **Evans Mogeni**, a passionate **Software Engineer** based in **Nairobi, Kenya** 🇰🇪.  
+I love crafting smooth and scalable web & mobile experiences that make users’ lives easier.
+
+- 🎓 Currently pursuing a **Bachelor’s in Mathematics & Computer Science** at *Murang’a University of Technology*
+- 💡 Focused on **Software Development**, building full-stack projects
+- 💬 Ask me about **React**, **Next.js**, **React Native (Expo)**, or **TypeScript**
+- ⚡ Fun fact: I enjoy debugging almost as much as coding — every bug tells a story 😄
+- 📫 Reach me:  
+  <a href="mailto:evansmoogeni254@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/%C3%ABvans-mogeni-a48636235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+
+---
+
+### ⚙️ Tech Stack
+
 <p align="center">
- <ul 
-   style="
-   display:"flex";
-   
-   >
-   <li>HTML</li>
-   <li>CSS</li>
-   <li>JavaScript</li>
-   <li>TypeScript</li>
-   <li>React</li>
-   <li>Next JS</li>
-   <li>React Native</li>
-   <li>Expo Go</li>
-   <li>Git</li>
-   <li>GitHub</li>
-   <li>NX monorepo</li>
-   <li>Vs Code</li>
-   <li>Problem Solving</li>
-   <li>Android Studio</li>
-
- </ul>  
-  
-  
-<!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,dart,react,nextjs,python,angular,flutter,kotlin,java,tailwind,git,github,androidstudio,vscode,mongodb,postgresql,firebase,docker,aws" />
 </p>
-<hr>
 
+---
+
+### 🧩 Tools & Skills
+
+- **Frontend:** React.js, Next.js, Angular, TypeScript, Tailwind CSS  
+- **Mobile:** React Native (Expo), Flutter 
+- **Backend:** Node.js, Express  
+- **Databases:** MongoDB, PostgreSQL  
+- **Other Tools:** Git, GitHub, Docker, NX Monorepo  
+- **Soft Skills:** Problem Solving, Teamwork, Continuous Learning  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=developer-evan&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-evan&theme=radical" />
+</p>
+
+---
+
+### 🌍 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/%C3%ABvans-mogeni-a48636235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:evansmogeni254@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/developer-evan"><img src="https://img.shields.io/badge/GitHub-171515.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">✨ “Code is like humor. When you have to explain it, it’s bad.” ✨</p>

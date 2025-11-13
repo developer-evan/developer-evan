@@ -57,7 +57,7 @@ I love crafting smooth and scalable web & mobile experiences that make users’ 
 ### 🌍 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/%C3%ABvans-mogeni-a48636235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/evans-mogeni-a48636235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:evansmogeni254@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/developer-evan"><img src="https://img.shields.io/badge/GitHub-171515.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>

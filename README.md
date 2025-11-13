@@ -22,7 +22,7 @@ I love crafting smooth and scalable web & mobile experiences that make users’ 
 - ⚡ Fun fact: I enjoy debugging almost as much as coding — every bug tells a story 😄
 - 📫 Reach me:  
   <a href="mailto:evansmoogeni254@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a> 
-  <a href="https://www.linkedin.com/in/%C3%ABvans-mogeni-a48636235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/evans-mogeni-a48636235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 
 ---
 

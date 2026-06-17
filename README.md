@@ -38,7 +38,7 @@ I love crafting smooth and scalable web & mobile experiences that make users’ 
 
 - **Frontend:** React.js, Next.js, Angular, TypeScript, Tailwind CSS  
 - **Mobile:** React Native (Expo), Flutter 
-- **Backend:** Node.js, Express  
+- **Backend:** Node.js, Express , Nest 
 - **Databases:** MongoDB, PostgreSQL  
 - **Other Tools:** Git, GitHub, Docker, NX Monorepo  
 - **Soft Skills:** Problem Solving, Teamwork, Continuous Learning  

@@ -16,7 +16,7 @@
 Hi there! I'm **Evans Mogeni**, a passionate **Software Engineer** based in **Nairobi, Kenya** 🇰🇪.  
 I love crafting smooth and scalable web & mobile experiences that make users’ lives easier.
 
-- 🎓 Currently pursuing a **Bachelor’s in Mathematics & Computer Science** at *Murang’a University of Technology*
+- 🎓 **Bachelor’s Degree in Mathematics & Computer Science** at *Murang’a University of Technology*
 - 💡 Focused on **Software Development**, building full-stack projects
 - 💬 Ask me about **React**, **Next.js**, **React Native (Expo)**, or **TypeScript**
 - ⚡ Fun fact: I enjoy debugging almost as much as coding — every bug tells a story 😄

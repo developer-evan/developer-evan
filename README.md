@@ -4,7 +4,7 @@
   Hey there 👋, I'm <span style="color:#00bfa6;">Evans Mogeni</span>
 </h1>
 
-<h3 align="center">🚀 Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00BFA6&center=true&vCenter=true&width=435&lines=Fullstack+Engineer+💻;Software+Developer+🌍;Tech+Enthusiast+⚡;Lifelong+Learner+🚀" alt="Typing SVG" />
